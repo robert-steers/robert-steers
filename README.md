@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @robert-steers
-- I currently work at Juniper Networks
+- 👋 Hi, everybody
 
 <!---
 robert-steers/robert-steers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
